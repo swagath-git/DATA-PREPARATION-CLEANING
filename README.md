@@ -22,3 +22,4 @@ The notebook walks through the step-by-step process of transforming messy data i
 3. Summary statistics and data visualizations (if applicable)
 
 # How to Run
+https://github.com/swagath-git/Data-preparation-cleaning/blob/main/Data%20Cleaning%20(DATA%20PREPARATION)%20.ipynb
